@@ -175,6 +175,7 @@ A collection of DSA soluttions from leetcode and gfg
 | [0001-two-sum](https://github.com/shivhareharsh-005/DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0451-sort-characters-by-frequency](https://github.com/shivhareharsh-005/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivhareharsh-005/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivhareharsh-005/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -188,6 +189,7 @@ A collection of DSA soluttions from leetcode and gfg
 ## String Matching
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shivhareharsh-005/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0572-subtree-of-another-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -211,6 +213,7 @@ A collection of DSA soluttions from leetcode and gfg
 | ------- |
 | [0075-sort-colors](https://github.com/shivhareharsh-005/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivhareharsh-005/DSA/tree/master/0088-merge-sorted-array) |
+| [0451-sort-characters-by-frequency](https://github.com/shivhareharsh-005/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/shivhareharsh-005/DSA/tree/master/0905-sort-array-by-parity) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivhareharsh-005/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Lifting
@@ -245,6 +248,7 @@ A collection of DSA soluttions from leetcode and gfg
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shivhareharsh-005/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/shivhareharsh-005/DSA/tree/master/1046-last-stone-weight) |
 ## Quicksort
 |  |
@@ -258,4 +262,12 @@ A collection of DSA soluttions from leetcode and gfg
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivhareharsh-005/DSA/tree/master/0042-trapping-rain-water) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shivhareharsh-005/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shivhareharsh-005/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
